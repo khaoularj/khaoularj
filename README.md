@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khaoularj
-- 🌱 I’m currently a software engineer student
+- 🌱 I’m currently a full stack software engineer and EDI Consultant
 
 <!---
 khaoularj/khaoularj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
